@@ -3,4 +3,5 @@ This repo will be used to send simple bulk whatsapp messages to listed numbers w
 
 ## REQUIREMENTS
 selenium
+
 webdriver-manager
